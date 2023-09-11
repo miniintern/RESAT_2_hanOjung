@@ -1,0 +1,41 @@
+  .navbar #menu {
+    float: right;
+    list-style: none;
+    margin-right:230px;
+    margin-top: -10px;
+
+  }
+li {
+    float:left;
+    margin-left: 50px;
+    line-height: 60px;
+    text-decoration: none;
+    color: #c0c0c0 ;
+    font-size: 13px;
+    font-weight: bold;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: -8px;
+  }
+  
+ #one {
+    margin-top: 25px;
+    margin-bottom: 30px;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+
+  #two{
+    float: left;
+    list-style: none;
+    margin-right:230px;
+    margin-top: -10px;
+  }
+
+  hr{
+    width: 2000px;
+    color: #eaeaea8b;
+  }
+  

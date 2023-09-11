@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>main</title>
+    <link href="main.css" rel="stylesheet">
+    <style>
+        /* 추가된 스타일 */
+        .navbar {
+            position: relative;
+        }
+        
+        #menu-toggle {
+            display: none;
+        }
+        
+        #menu-icon {
+            display: block;
+            font-size: 24px;
+            cursor: pointer;
+        }
+        
+        #menu {
+            display: none;
+            list-style: none;
+            padding: 0;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+        }
+        
+        #menu li {
+            padding: 10px;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+        }
+        
+        #menu-toggle:checked ~ #menu {
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="navbar">
+        <input type="checkbox" id="menu-toggle">
+        <label for="menu-toggle" id="menu-icon">&#9776;</label>
+        <a href="index.html" id="logo">
+            <img src="logo.png" style="float: left; width: 200px; height: 40px; margin-left: 230px;">
+            <ul id="two">
+                <li>미니인턴</li>
+                <li>스킬업</li>
+                <li>M클래스</li>
+                <li>채용관</li>
+                <li>해피폴리오</li>
+            </ul>
+        </a>
+        <ul id="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+            <li><a href="#">QnA</a></li>
+        </ul>
+        <hr>
+    </div>
+    <img src="a.png" id="one">
+</body>
+</html>

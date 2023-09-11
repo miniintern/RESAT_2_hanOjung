@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>카운트 다운</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+  <h1> 카운트 다운 </h1>
+  <input type="number" id="timeInput" placeholder="h" min="0" />
+  <input type="number" id="minutesInput" placeholder="m" min="0" max="59" /> 
+  <input type="number" id="secondsInput" placeholder="s" min="0" max="59" /> 
+  <br> <br>
+  <button onclick="startTimer()">start</button>
+  <button onclick="stopTimer()">stop</button>
+  <button onclick="resetTimer()">reset</button>
+  <br> <br>
+  <div id="countdown"></div>
+</body>
+
+<script src="index.js"></script>
+</html>
+
