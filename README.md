@@ -1,1 +1,16 @@
-# RESAT_2_hanOjung
+RESAT_2_한O정 현직자 리뷰
+![표지](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/887156c1-db62-44be-86b8-09387397e332)
+![우수 수료자 현직자 코드 리뷰_한효정_2](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/94b2d5b4-bdbf-4a3c-b06b-7623d498887a)
+![우수 수료자 현직자 코드 리뷰_한효정_3](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/8a3f63d1-0223-4f54-9b9c-dd26a515cd3d)
+![우수 수료자 현직자 코드 리뷰_한효정_4](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/32c5c31d-6506-45eb-a808-ce446800f77b)
+![우수 수료자 현직자 코드 리뷰_한효정_5](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/2e1b1252-7df3-4e46-97f1-be961b6a99c4)
+![우수 수료자 현직자 코드 리뷰_한효정_6](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/dfabc2b1-bc81-4d0d-a3b3-e8fc95140c8e)
+![우수 수료자 현직자 코드 리뷰_한효정_7](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/89143027-c552-4f14-8a84-eac94253fd73)
+![우수 수료자 현직자 코드 리뷰_한효정_8](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/ab8dc017-8fa5-4247-8536-d1ef0b599462)
+![우수 수료자 현직자 코드 리뷰_한효정_9](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/da4ec162-f928-4a91-a7e7-20cc25ecb0ec)
+![우수 수료자 현직자 코드 리뷰_한효정_12](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/3e6a4908-ba86-4163-bb0a-80b0b5f067af)
+![우수 수료자 현직자 코드 리뷰_한효정_13](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/70dce0d5-bc35-437a-bc71-c2719323e635)
+![우수 수료자 현직자 코드 리뷰_한효정_14](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/99737836-3ae0-435c-a2f5-6b1ae8b9a2ba)
+![우수 수료자 현직자 코드 리뷰_한효정_15](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/bf95c439-de9b-4cea-8f5f-68a2da1f02af)
+![우수 수료자 현직자 코드 리뷰_한효정_16](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/18864cd5-412d-4808-9904-ed68a24dd669)
+![우수 수료자 현직자 코드 리뷰_한효정_17](https://github.com/miniintern/RESAT_2_hanOjung/assets/144213890/d34b8f0f-6bc3-4dfb-9300-7cf1de7f8a2c)
